@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T13:54:59.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" version="24.0.7" etag="dYX1CigzOIk7zSOZOD0E" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-18T14:05:30.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="o8s9QtP-bpfglOBr8okk" version="24.0.7" type="github">
   <diagram name="Page-1" id="4foU-sPMuwIL9KJDtfh4">
-    <mxGraphModel>
+    <mxGraphModel dx="542" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Uk1gx759VjxqlsX4QYIc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uk1gx759VjxqlsX4QYIc-1" target="Uk1gx759VjxqlsX4QYIc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk1gx759VjxqlsX4QYIc-1" value="برسی رای ها در مجلس" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="120" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk1gx759VjxqlsX4QYIc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uk1gx759VjxqlsX4QYIc-2" target="Uk1gx759VjxqlsX4QYIc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk1gx759VjxqlsX4QYIc-2" value="ارسال گزارش عدم کارکرد صحیح&lt;div&gt;کارکنان و مسئولین دولتی&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk1gx759VjxqlsX4QYIc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uk1gx759VjxqlsX4QYIc-3" target="Uk1gx759VjxqlsX4QYIc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk1gx759VjxqlsX4QYIc-3" value="ارسال درخواست و نظر" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk1gx759VjxqlsX4QYIc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uk1gx759VjxqlsX4QYIc-4" target="Uk1gx759VjxqlsX4QYIc-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uk1gx759VjxqlsX4QYIc-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uk1gx759VjxqlsX4QYIc-4" target="Uk1gx759VjxqlsX4QYIc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk1gx759VjxqlsX4QYIc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uk1gx759VjxqlsX4QYIc-4" target="Uk1gx759VjxqlsX4QYIc-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="790" y="285" />
+              <mxPoint x="790" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uk1gx759VjxqlsX4QYIc-4" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;gradientColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="740" y="255" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk1gx759VjxqlsX4QYIc-11" value="Core" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="250" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
